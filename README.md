@@ -1,6 +1,4 @@
 [![discord](https://img.shields.io/badge/Discord-yaccobs♯0001-white?labelColor=white&logo=Discord&style=for-the-badge&logoColor=black)](https://discord.gg/users/594286791973011465)
-[![discord2](https://img.shields.io/badge/Discord-discord.freakzdev.com-white?labelColor=white&logo=Discord&style=for-the-badge&logoColor=black)](https://discord.freakzdev.com)
-[![discord3](https://img.shields.io/badge/FreakzDev.Com-Online-brightgreen?style=for-the-badge&labelColor=white&logo=Web&logoColor=black)](https://freakzdev.com)
 </pre>
 ![nodejs](https://img.shields.io/badge/Node.JS-★★★★★-white?labelColor=white&logo=Node.JS&style=for-the-badge&logoColor=black)
 ![javascript](https://img.shields.io/badge/javascript-★★★☆☆-white?labelColor=white&logo=JavaScript&style=for-the-badge&logoColor=black)
