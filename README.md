@@ -2,9 +2,8 @@
 </pre>
 ![nodejs](https://img.shields.io/badge/Node.JS-★★★★★-white?labelColor=white&logo=Node.JS&style=for-the-badge&logoColor=black)
 ![javascript](https://img.shields.io/badge/javascript-★★★☆☆-white?labelColor=white&logo=JavaScript&style=for-the-badge&logoColor=black)
-![html](https://img.shields.io/badge/html-★★☆☆☆-white?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=black)
-![css](https://img.shields.io/badge/css-★☆☆☆☆-white?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=black)
-![lua](https://img.shields.io/badge/lua-★★★☆☆-white?labelColor=white&logo=LUA&style=for-the-badge&logoColor=black)
+![html](https://img.shields.io/badge/html-★★★☆☆-white?labelColor=white&logo=HTML5&style=for-the-badge&logoColor=black)
+![css](https://img.shields.io/badge/css-★★★☆☆-white?labelColor=white&logo=CSS3&style=for-the-badge&logoColor=black)
 <pre>
 
 </pre>
